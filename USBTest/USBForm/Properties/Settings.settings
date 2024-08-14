@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="USBForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FrameNum" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">524288</Value>
+    </Setting>
+    <Setting Name="CutNum" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="NoUseDeleteToggle" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BytesHandle" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="SendCommond" Type="System.String" Scope="User">
+      <Value Profile="(Default)">55 AA 01 02 03 04 05</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
